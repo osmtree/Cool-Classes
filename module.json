@@ -1,0 +1,37 @@
+{
+  "id": "5eextended",
+  "title": "5eExtended",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Devin",
+      "flags": {}
+    },
+    {
+      "name": "Ian",
+      "flags": {}
+    },
+    {
+      "name": "Terra",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "5eextended",
+      "label": "5eExtended",
+      "path": "packs/5eextended",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
